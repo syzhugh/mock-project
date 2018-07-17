@@ -1,0 +1,18 @@
+# dirs
+.idea/*
+!.idea/workspace.xml
+!.idea/modules.xml
+!.idea/gradle.xml
+
+/src/test/
+/out
+.gradle/
+build/
+/local.properties
+/captures
+.DS_Store
+.externalNativeBuild
+
+# files
+*.iml
+
